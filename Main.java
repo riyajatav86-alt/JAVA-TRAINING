@@ -1,6 +1,7 @@
    class YouTubeChannel {
     private String channelName;
     private int subscribers;
+   
 
     // Constructor
     public YouTubeChannel(String channelName, int subscribers) {
@@ -28,5 +29,5 @@
 }
 
 public class Main {
-    public static void main(String[] ar…
+    public static void main(String[] args) {
     
