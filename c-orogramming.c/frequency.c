@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int arr[]={5,8,5,7,8,10,5};
+    int arr[]={122,45,78,69,25};
     int size=sizeof(arr)/sizeof(arr[0]);
     int freq[size];
     for(int i=0;i<size;i++){
