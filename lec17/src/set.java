@@ -7,5 +7,6 @@ public class set {
      set.add(30);
      System.out.println(set);
 
+
     }
 }
