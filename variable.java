@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class variable {
     
   //  static int a=10;
@@ -6,7 +6,7 @@ public class variable {
    //     variable obj=new variable();
      //   System.out.println(obj.a);
     //}
-//}
+}
 
         
        
