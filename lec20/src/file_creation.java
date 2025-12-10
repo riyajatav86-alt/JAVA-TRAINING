@@ -11,7 +11,7 @@ public class file_creation {
             if (f.createNewFile()) {
                 System.out.println("File created: " + f.getName());
             } else {
-                System.out.println("--- sorry!! file of this name is already created ---");
+                System.out.println("--- !! file of this name is already created ---");
             }
 
         } catch (IOException e) {
