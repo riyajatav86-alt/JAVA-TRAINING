@@ -9,9 +9,9 @@
 
             if (file.exists()) {
                 if (file.delete()) {
-//System.out.println("File deleted successfully!");
+             System.out.println("File deleted successfully!");
                 } else {
-                    System.out.println("Failed to delete the file.");
+                  //  System.out.println("Failed to delete the file.");
                 }
             } else {
                 System.out.println("File does not exist!");
